@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
     {
-        title: "Web Developer",
+        title: "Frontend",
         icon: web,
     },
     {
-        title: "React Native Developer",
-        icon: mobile,
-    },
-    {
-        title: "Backend Developer",
+        title: "Backend",
         icon: backend,
     },
     {
-        title: "Content Creator",
+        title: "Mobile",
+        icon: mobile,
+    },
+    {
+        title: "Design",
         icon: creator,
     },
 ];
@@ -116,42 +116,41 @@ const technologies = [
 
 const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
+        title: "Software Developer Intern",
+        company_name: "Berkeley Pharma Tech",
         icon: starbucks,
         iconBg: "#383E56",
-        date: "March 2020 - April 2021",
+        date: "June 2021 - August 2021",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Built and published an Android shooter game to the Google Play Store using Unity and C# scripts",
+            "Designed sprite animations and UI functionality using Unity animation controllers",
+            "Utilized Azure PlayFab to implement leaderboards and player login system, monitoring player data and game analytics",
+            "Worked with Photon Engine to implement multiplayer functionality, including real-time synchronization of player movement and multiplayer functionality",
         ],
     },
     {
-        title: "React Native Developer",
-        company_name: "Tesla",
+        title: "ICT Intern",
+        company_name: "Stellantis",
         icon: tesla,
         iconBg: "#E6DEDD",
-        date: "Jan 2021 - Feb 2022",
+        date: "May 2022 - August 2022",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Built a prototype for taking and displaying high-resolution screenshots of automobile models from Autodesk Maya in Unreal Engine 5",
+            "Developed an interface using editor utility widgets in Unreal Motion Graphics for user input and camera controls",
+            "Utilized event graphs and dispatchers to implement a system that allows users to take screenshots of the model from different angles",
         ],
     },
     {
-        title: "Web Developer",
-        company_name: "Shopify",
+        title: "Software Engineering Intern",
+        company_name: "Northrop Grumman",
         icon: shopify,
         iconBg: "#383E56",
-        date: "Jan 2022 - Jan 2023",
+        date: "June 2023 - August 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Developed a React web application for employees to view and manage their schedules",
+            "Leveraged Redux Toolkit to manage application state and Redux Thunk to implement asynchronous actions",
+            "Implemented a calendar component using React Big Calendar to display employee schedules",
+            "Built a REST API using Node.js and Express to retrieve and update employee schedules",
         ],
     },
     {

@@ -7,6 +7,10 @@ import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
 
+// template_didqmvc
+// service_cpby1we
+// fEcmVwfShSmsrklR5
+
 const Contact = () => {
   const formRef = useRef();
   const [form, setForm] = useState({
@@ -28,6 +32,7 @@ const Contact = () => {
   };
 
   const handleSubmit = (e) => {
+    // prevent default browser reload
     e.preventDefault();
     setLoading(true);
 
@@ -47,7 +52,7 @@ const Contact = () => {
       .then(
         () => {
           setLoading(false);
-          alert("Thank you. I will get back to you as soon as possible.");
+          alert("Thank you for your message! I will get back to you soon.");
 
           setForm({
             name: "",

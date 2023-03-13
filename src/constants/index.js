@@ -151,27 +151,28 @@ const experiences = [
         company_name: "Northrop Grumman",
         icon: northrop,
         iconBg: "#383E56",
-        date: "June 2023 - August 2023",
+        date: "Expected June 2023 - August 2023",
         points: [
-            "Developed a React web application for employees to view and manage their schedules",
-            "Leveraged Redux Toolkit to manage application state and Redux Thunk to implement asynchronous actions",
-            "Implemented a calendar component using React Big Calendar to display employee schedules",
-            "Built a REST API using Node.js and Express to retrieve and update employee schedules",
+            "Soon to come!"
+            // "Developed a React web application for employees to view and manage their schedules",
+            // "Leveraged Redux Toolkit to manage application state and Redux Thunk to implement asynchronous actions",
+            // "Implemented a calendar component using React Big Calendar to display employee schedules",
+            // "Built a REST API using Node.js and Express to retrieve and update employee schedules",
         ],
     },
-    {
-        title: "Software Engineering Intern",
-        company_name: "Tesla",
-        icon: tesla,
-        iconBg: "#E6DEDD",
-        date: "September 2023 - December 2023",
-        points: [
-            "Developed a RESTful API using Node.js and Express to retrieve and update vehicle data",
-            "Utilized Ruby on Rails to manage vehicle data and implement a vehicle management system",
-            "Implementing responsive design and ensuring cross-browser compatibility",
-            "Improved runtime performance by optimizing code and implementing caching",
-        ],
-    },
+    // {
+    //     title: "Software Engineering Intern",
+    //     company_name: "Tesla",
+    //     icon: tesla,
+    //     iconBg: "#E6DEDD",
+    //     date: "September 2023 - December 2023",
+    //     points: [
+    //         "Developed a RESTful API using Node.js and Express to retrieve and update vehicle data",
+    //         "Utilized Ruby on Rails to manage vehicle data and implement a vehicle management system",
+    //         "Implementing responsive design and ensuring cross-browser compatibility",
+    //         "Improved runtime performance by optimizing code and implementing caching",
+    //     ],
+    // },
 ];
 
 const testimonials = [

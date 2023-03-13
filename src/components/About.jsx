@@ -50,7 +50,7 @@ const About = () => {
       >
         I'm a 3rd year undergraduate majoring in Mathematics and Computer Science
         at the University of California, San Diego. I have experience with frameworks
-        and libraries such as React, Next.js, Node.js, Express.js, and more!
+        and libraries such as React, Vue, Node.js, Express, and more!
         Working independently and as part of a team, I have a deep passion for learning 
         the latest technologies and tools to create innovative solutions to real-world problems.
         Let's work together to bring your ideas to life!

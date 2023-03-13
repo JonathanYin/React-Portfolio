@@ -23,6 +23,12 @@ import {
     jobit,
     tripguide,
     threejs,
+    stellantis,
+    bpt,
+    northrop,
+    cookies,
+    uberclone,
+    jobtracker,
 } from "../assets";
 
 export const navLinks = [
@@ -118,8 +124,8 @@ const experiences = [
     {
         title: "Software Developer Intern",
         company_name: "Berkeley Pharma Tech",
-        icon: starbucks,
-        iconBg: "#383E56",
+        icon: bpt,
+        iconBg: "#E6DEDD",
         date: "June 2021 - August 2021",
         points: [
             "Built and published an Android shooter game to the Google Play Store using Unity and C# scripts",
@@ -131,8 +137,8 @@ const experiences = [
     {
         title: "ICT Intern",
         company_name: "Stellantis",
-        icon: tesla,
-        iconBg: "#E6DEDD",
+        icon: stellantis,
+        iconBg: "#5dabcf",
         date: "May 2022 - August 2022",
         points: [
             "Built a prototype for taking and displaying high-resolution screenshots of automobile models from Autodesk Maya in Unreal Engine 5",
@@ -143,7 +149,7 @@ const experiences = [
     {
         title: "Software Engineering Intern",
         company_name: "Northrop Grumman",
-        icon: shopify,
+        icon: northrop,
         iconBg: "#383E56",
         date: "June 2023 - August 2023",
         points: [
@@ -154,16 +160,16 @@ const experiences = [
         ],
     },
     {
-        title: "Full stack Developer",
-        company_name: "Meta",
-        icon: meta,
+        title: "Software Engineering Intern",
+        company_name: "Tesla",
+        icon: tesla,
         iconBg: "#E6DEDD",
-        date: "Jan 2023 - Present",
+        date: "September 2023 - December 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Developed a RESTful API using Node.js and Express to retrieve and update vehicle data",
+            "Utilized Ruby on Rails to manage vehicle data and implement a vehicle management system",
+            "Implementing responsive design and ensuring cross-browser compatibility",
+            "Improved runtime performance by optimizing code and implementing caching",
         ],
     },
 ];
@@ -197,16 +203,16 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Car Rent",
+        name: "Sustainable Cookies",
         description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Interactive research site and geocoding app with custom map markers displaying local farms and gardens in the San Diego area",
         tags: [
             {
-                name: "react",
+                name: "vue",
                 color: "blue-text-gradient",
             },
             {
-                name: "mongodb",
+                name: "leaflet",
                 color: "green-text-gradient",
             },
             {
@@ -214,50 +220,50 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: carrent,
-        source_code_link: "https://github.com/",
+        image: cookies,
+        source_code_link: "https://github.com/SYN100-WI23-Team-6",
     },
     {
-        name: "Job IT",
+        name: "Uber Clone",
         description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Ride request app with commute visualization and dynamic pricing complete with address autocomplete, geocoding, and routing",
         tags: [
             {
-                name: "react",
+                name: "react-native",
                 color: "blue-text-gradient",
             },
             {
-                name: "restapi",
+                name: "redux",
                 color: "green-text-gradient",
             },
             {
-                name: "scss",
+                name: "tailwind",
                 color: "pink-text-gradient",
             },
         ],
-        image: jobit,
-        source_code_link: "https://github.com/",
+        image: uberclone,
+        source_code_link: "https://github.com/JonathanYin/UberClone",
     },
     {
-        name: "Trip Guide",
+        name: "Job Tracker",
         description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Full-stack job application tracker with functional CI/CD pipeline and local storage backend",
         tags: [
             {
-                name: "nextjs",
+                name: "javascript",
                 color: "blue-text-gradient",
             },
             {
-                name: "supabase",
+                name: "github-actions",
                 color: "green-text-gradient",
             },
             {
-                name: "css",
+                name: "jest",
                 color: "pink-text-gradient",
             },
         ],
-        image: tripguide,
-        source_code_link: "https://github.com/",
+        image: jobtracker,
+        source_code_link: "https://github.com/cse110-fa22-group23/cse110-fa22-group23",
     },
 ];
 

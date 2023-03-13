@@ -25,10 +25,16 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import stellantis from "./company/stellantis.png";
+import bpt from "./company/bpt.jpg";
+import northrop from "./company/northropgrumman.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import cookies from "./sustainablecookies.png";
+import uberclone from "./uberclone.png";
+import jobtracker from "./job_tracker.png";
 
 export {
   logo,
@@ -59,4 +65,10 @@ export {
   carrent,
   jobit,
   tripguide,
+  stellantis,
+  bpt,
+  northrop,
+  cookies,
+  uberclone,
+  jobtracker,
 };

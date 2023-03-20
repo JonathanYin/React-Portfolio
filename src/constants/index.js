@@ -131,7 +131,7 @@ const experiences = [
             "Built and published an Android shooter game to the Google Play Store using Unity and C# scripts",
             "Designed sprite animations and UI functionality using Unity animation controllers",
             "Utilized Azure PlayFab to implement leaderboards and player login system, monitoring player data and game analytics",
-            "Worked with Photon Engine to implement multiplayer functionality, including real-time synchronization of player movement and multiplayer functionality",
+            "Worked with Photon Engine to implement multiplayer functionality, including real-time synchronization of player movement",
         ],
     },
     {

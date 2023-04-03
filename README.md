@@ -16,3 +16,11 @@ I've gained a lot of experience with React and front-end since then, so I though
 ## Link
 
 [Portfolio](https://jonathanyin.us)
+
+## Usage
+
+Navigate to the root of the project, and run
+
+```bash
+npm run dev
+```

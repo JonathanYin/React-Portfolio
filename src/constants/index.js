@@ -29,6 +29,8 @@ import {
     cookies,
     uberclone,
     jobtracker,
+    profile,
+    anime,
 } from "../assets";
 
 export const navLinks = [
@@ -39,6 +41,10 @@ export const navLinks = [
     {
         id: "work",
         title: "Work",
+    },
+    {
+        id: "resume",
+        title: "Resume",
     },
     {
         id: "contact",
@@ -119,6 +125,17 @@ const technologies = [
         icon: docker,
     },
 ];
+
+export const girl = anime
+
+const resumeDescription = [ 
+    {
+        description: "Check out my resume for my full work experience and education!",
+        name: "Jonathan Yin",
+        designation: "Software Engineer",
+        image: profile,
+    }
+]
 
 const experiences = [
     {
@@ -268,4 +285,4 @@ const projects = [
     },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, testimonials, projects, resumeDescription };

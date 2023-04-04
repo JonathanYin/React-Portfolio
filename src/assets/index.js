@@ -32,9 +32,12 @@ import northrop from "./company/northropgrumman.jpg";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import cookies from "./sustainablecookies.png";
-import uberclone from "./uberclone.png";
+import cookies from "./sustainablecookies.webp";
+import uberclone from "./uberclone.webp";
 import jobtracker from "./job_tracker.png";
+
+import profile from "./profile.webp";
+import anime from "./anime.webp";
 
 export {
   logo,
@@ -71,4 +74,6 @@ export {
   cookies,
   uberclone,
   jobtracker,
+  profile,
+  anime,
 };

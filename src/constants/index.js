@@ -145,7 +145,7 @@ const experiences = [
         iconBg: "#E6DEDD",
         date: "June 2021 - August 2021",
         points: [
-            "Built and published an Android shooter game to the Google Play Store using Unity and C# scripts",
+            "Built and published an Android game to the Google Play Store using Unity and C# scripts",
             "Designed sprite animations and UI functionality using Unity animation controllers",
             "Utilized Azure PlayFab to implement leaderboards and player login system, monitoring player data and game analytics",
             "Worked with Photon Engine to implement multiplayer functionality, including real-time synchronization of player movement",
@@ -158,9 +158,8 @@ const experiences = [
         iconBg: "#5dabcf",
         date: "May 2022 - August 2022",
         points: [
-            "Built a prototype for taking and displaying high-resolution screenshots of automobile models from Autodesk Maya in Unreal Engine 5",
+            "Created a UE5 prototype to capture and display high-resolution screenshots of vehicle models imported from Autodesk Maya",
             "Developed an interface using editor utility widgets in Unreal Motion Graphics for user input and camera controls",
-            "Utilized event graphs and dispatchers to implement a system that allows users to take screenshots of the model from different angles",
         ],
     },
     {
@@ -168,9 +167,11 @@ const experiences = [
         company_name: "Northrop Grumman",
         icon: northrop,
         iconBg: "#383E56",
-        date: "Expected June 2023 - August 2023",
+        date: "June 2023 - August 2023",
         points: [
-            "Soon to come!"
+            "Authored Python scripts to automate various API calls for map software system GUIs, enhancing system efficiency and reducing manual overhead",
+            "Developed and implemented a suite of testing solutions for application GUIs using Robot Framework and Python",
+            "Leveraged Robot Framework's libdoc tool to automate documentation for multiple application codebases",
             // "Developed a React web application for employees to view and manage their schedules",
             // "Leveraged Redux Toolkit to manage application state and Redux Thunk to implement asynchronous actions",
             // "Implemented a calendar component using React Big Calendar to display employee schedules",

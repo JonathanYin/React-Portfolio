@@ -52,9 +52,9 @@ const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          I'm a 3rd year undergraduate majoring in Mathematics and Computer Science
+          I'm a 4th year undergraduate majoring in Mathematics and Computer Science
           at the University of California, San Diego, with a minor in Computer Engineering. 
-          I have experience with web frameworks/libraries such as React, Vue, Node.js, Express, 
+          I have experience with full-stack frameworks/tools such as React, Vue, Node.js, Express, and Flask,
           as well as rendering and game design with tools such as Unity, Unreal Engine 5, Blender, 
           WebGL, and more. Working independently and as part of a team, I have gained experience 
           with software development processes such as agile, and CI/CD pipelines such as GitHub Actions. 

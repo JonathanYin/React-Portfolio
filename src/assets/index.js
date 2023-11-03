@@ -28,7 +28,7 @@ import tesla from "./company/tesla.png";
 import stellantis from "./company/stellantis.png";
 import bpt from "./company/bpt.jpg";
 import northrop from "./company/northropgrumman.jpg";
-
+import caida from "./company/caida.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -65,6 +65,7 @@ export {
   shopify,
   starbucks,
   tesla,
+  caida,
   carrent,
   jobit,
   tripguide,

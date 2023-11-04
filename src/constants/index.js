@@ -181,7 +181,7 @@ const experiences = [
     ],
   },
   {
-    title: "Frontend Developer Intern Intern",
+    title: "Frontend Developer Intern",
     company_name: "Center for Applied Internet Data Analysis",
     icon: caida,
     iconBg: "#383E56",
